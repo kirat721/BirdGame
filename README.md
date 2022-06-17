@@ -12,3 +12,5 @@ The speed of the obstacles increases with the time in the game. The scorekeeper 
 Instructions to play:
 Click on "Start button", then play with left, right and up arrow to move player left, rigth and jump respedtively.
 If game ends, click the button "
+
+You can enjoy the game here: http://34.175.228.190/
